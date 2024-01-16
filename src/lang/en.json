@@ -1,0 +1,27 @@
+{
+  "shortName": "en",
+  "name": "English",
+  "START": {
+    "DESCRIPTION": "Create a Discord event whenever any Twitch streamer goes live!",
+    "SUB-DESCRIPTION": "You can also add a filter on stream titles!"
+  },
+  "BUTTONS": {
+    "LOGIN": "login",
+    "SAVE": "Save",
+    "REMOVE": "Remove"
+  },
+  "WATCHER": {
+    "TITLE-CONTAINS": "(Optional) Only if title contains:",
+    "TITLE-CONTAINS-PLACEHOLDER": "Something"
+  },
+  "PANEL": {
+    "SERVERS-LIST": "Servers list",
+    "ADD-SERVER": "Add a new server",
+    "SELECT-SERVER": "Please select or add a server",
+    "REMOVE-BOT": "Remove bot from server",
+    "REMOVE-BOT-CONFIRM": "Are you sure you want to remove the bot from the server \"{0}\"?"
+  },
+  "LINK": {
+    "JOIN-SUPPORT-SERVER": "Join the Support Server"
+  }
+}

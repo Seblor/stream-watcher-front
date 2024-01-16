@@ -1,0 +1,27 @@
+{
+  "shortName": "fr",
+  "name": "Français",
+  "START": {
+    "DESCRIPTION": "Créez un événement Discord quand un streamer lance un live !",
+    "SUB-DESCRIPTION": "Vous pouvez ajouter un filtre sur les titres des streams !"
+  },
+  "BUTTONS": {
+    "LOGIN": "connexion",
+    "SAVE": "Sauvegarder",
+    "REMOVE": "Retirer"
+  },
+  "WATCHER": {
+    "TITLE-CONTAINS": "(Optionnel) Uniquement si le titre contient :",
+    "TITLE-CONTAINS-PLACEHOLDER": "Quelque chose"
+  },
+  "PANEL": {
+    "SERVERS-LIST": "List des serveurs",
+    "ADD-SERVER": "Ajouter un serveur",
+    "SELECT-SERVER": "Sélectionnez ou ajoutez un serveur",
+    "REMOVE-BOT": "Retirer le bot du serveur",
+    "REMOVE-BOT-CONFIRM": "Êtes-vous sûr de vouloir retirer le bot du serveur \"{0}\" ?"
+  },
+  "LINK": {
+    "JOIN-SUPPORT-SERVER": "Rejoindre le serveur de support"
+  }
+}
