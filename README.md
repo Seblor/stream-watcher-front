@@ -1,24 +1,15 @@
-# client
+# Stream Watcher (Front)
 
-## Project setup
-```
-npm install
-```
+This code has been imported from the global Stream Watcher repository. It's become quite old (3 years as of this commit), but it still works.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Improvements
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Architecture
 
-### Lints and fixes files
-```
-npm run lint
-```
+Rework the connection with the back-end. It was an opportunity to test WebSockets, it works well, but not the most readable. It should be replaced with a REST API.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Design
+
+It's kinda ugly. It should be improved.
+
+Use Tailwind (it's a shame I didn't know it at the time).
